@@ -1,0 +1,13 @@
+.nav-style{
+    display: flex;
+    justify-content: space-between;
+    background: #80808080;
+    padding: 12px;
+
+}
+
+.nav-style button{
+    background: black;
+    color: white;
+    padding: 12px;
+}
